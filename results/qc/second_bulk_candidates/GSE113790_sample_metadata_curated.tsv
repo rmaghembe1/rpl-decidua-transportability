@@ -1,0 +1,7 @@
+sample_id	dataset_id	diagnosis	tissue_source	assay_type	expression_sample_id	metadata_grade	inclusion_role	notes
+decidua_induced abortion_rep1	GSE113790	Control	Decidua	bulk_RNAseq	decidua_induced abortion_rep1	B	second_bulk_transportability	Decidua from induced abortion control sample; metadata requires manual curation
+decidua_induced abortion_rep2	GSE113790	Control	Decidua	bulk_RNAseq	decidua_induced abortion_rep2	B	second_bulk_transportability	Decidua from induced abortion control sample; metadata requires manual curation
+decidua_induced abortion_rep3	GSE113790	Control	Decidua	bulk_RNAseq	decidua_induced abortion_rep3	B	second_bulk_transportability	Decidua from induced abortion control sample; metadata requires manual curation
+decidua_recurrent spontaneous abortion_rep1	GSE113790	RSA	Decidua	bulk_RNAseq	decidua_recurrent spontaneous abortion_rep1	B	second_bulk_transportability	Decidua from recurrent spontaneous abortion sample; metadata requires manual curation
+decidua_recurrent spontaneous abortion_rep2	GSE113790	RSA	Decidua	bulk_RNAseq	decidua_recurrent spontaneous abortion_rep2	B	second_bulk_transportability	Decidua from recurrent spontaneous abortion sample; metadata requires manual curation
+decidua_recurrent spontaneous abortion_rep3	GSE113790	RSA	Decidua	bulk_RNAseq	decidua_recurrent spontaneous abortion_rep3	B	second_bulk_transportability	Decidua from recurrent spontaneous abortion sample; metadata requires manual curation

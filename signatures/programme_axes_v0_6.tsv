@@ -1,0 +1,9 @@
+axis_id	axis_name	biological_meaning	expected_primary_compartments	source_for_derivation	projection_priority
+AX01	Immune tolerance / decidual regulation	Regulatory dNK, Treg, macrophage homeostatic and maternal-fetal tolerance programmes	dNK,T_cell,Macrophage,DSC	GSE164449,GSE214607,E-MTAB-6701	Primary
+AX02	Cytotoxic inflammatory activation	NK/T cytotoxicity, granzyme/perforin, inflammatory activation	dNK,T_cell	GSE164449,GSE214607	Primary
+AX03	Interferon and antigen presentation	IFN-stimulated genes, HLA/MHC, antigen-processing programmes	Immune, trophoblast, stromal	GSE164449,GSE214607	Primary
+AX04	Complement/coagulation thromboinflammation	Complement, coagulation, platelet/endothelial inflammatory signatures	Macrophage,Endothelial,Stromal	GSE214607,bulk validation	Primary with contamination caution
+AX05	Decidual stromal maturation/remodelling	Decidualization, fibroblast/stromal ECM remodelling, tissue repair	DSC,Perivascular	GSE214607,E-MTAB-6701	Primary
+AX06	Trophoblast invasion/differentiation	EVT, VCT, SCT differentiation and invasion programmes	EVT,VCT,SCT	GSE214607,E-MTAB-6701	Primary for MFI/villi; sensitivity for decidua-only
+AX07	Vascular niche/angiogenesis	Endothelial and spiral-artery-remodelling programmes	Endothelial,Perivascular,EVT	GSE214607,E-MTAB-6701	Primary
+AX08	Epithelial/glandular secretory state	Glandular/epithelial decidual interface programmes	Epithelial_glandular	GSE214607,E-MTAB-6701	Secondary

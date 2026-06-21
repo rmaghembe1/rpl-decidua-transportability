@@ -1,0 +1,12 @@
+compartment	marker_genes	use	caution
+dNK	NCAM1,KLRD1,NKG7,GNLY,KIR2DL1,KIR2DL3,KIR3DL1,XCL1,XCL2	dNK identity and cytotoxic/regulatory programme annotation	KIR genes are variably captured; avoid overcalling fine dNK subsets
+T_cell	CD3D,CD3E,TRAC,CD4,CD8A,IL7R,FOXP3,CTLA4	T-cell and regulatory T-cell programme annotation	FOXP3/Treg programmes may be sparse in scRNA-seq
+Macrophage	LST1,C1QA,C1QB,C1QC,CD68,MRC1,MS4A7,APOE	Decidual macrophage programme annotation	Avoid simplistic M1/M2 labels
+Dendritic_monocyte	FCN1,LYZ,CD1C,CLEC10A,LILRA4,IRF7	Monocyte/DC annotation	Lineage boundaries may be dataset-specific
+EVT	HLA-G,MMP2,ITGA5,PAPPA2,NOTUM	Extravillous trophoblast programme	Differentiate trophoblast lineage from maternal epithelial signals
+VCT	KRT7,EPCAM,TP63,PAGE4,TEAD4	Villous cytotrophoblast identity	May vary by gestational age
+SCT	CGA,CGB3,CSH1,PSG1,ERVW-1	Syncytiotrophoblast programme	Ambient RNA may affect trophoblast hormones
+Decidual_stromal	PRL,IGFBP1,DCN,COL1A1,HOXA10,WNT4	Decidualization and stromal remodelling programmes	Separate identity from ECM activation
+Endothelial	PECAM1,VWF,KDR,ENG,ESAM	Vascular niche programme	Blood contamination and vascular sampling should be considered
+Epithelial_glandular	EPCAM,KRT18,MUC1,PAEP,SPP1	Glandular/epithelial programme	May overlap with trophoblast epithelial markers
+Perivascular	RGS5,ACTA2,MCAM,PDGFRB,MYH11	Perivascular/vascular-remodelling programme	Sparse compartments require broad labels

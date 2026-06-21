@@ -1,0 +1,2 @@
+dataset_id	n_genes	n_samples	sample_columns	annotation_columns	normalization	source_file
+GSE113790	23294	6	decidua_induced abortion_rep1,decidua_induced abortion_rep2,decidua_induced abortion_rep3,decidua_recurrent spontaneous abortion_rep1,decidua_recurrent spontaneous abortion_rep2,decidua_recurrent spontaneous abortion_rep3	gene_symbol,locus	log2(FPKM + 1)	data/raw/second_bulk_candidates/GSE113790/GSE113790_All_Sample_FPKM_Matrix.txt.gz

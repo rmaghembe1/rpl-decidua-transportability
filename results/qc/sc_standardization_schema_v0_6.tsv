@@ -1,0 +1,10 @@
+field	required	description
+dataset_id	TRUE	Accession/source identifier
+cell_id	TRUE	Unique cell barcode after dataset prefixing
+sample_id	TRUE	Sample/library identifier
+donor_id	FALSE	Donor or patient identifier if available
+condition	TRUE	Control/RPL/RM/RSA label
+tissue_source	TRUE	Decidua/villi/placenta/endometrium/blood
+broad_celltype	TRUE	Harmonized broad compartment label
+fine_celltype_original	FALSE	Original author annotation
+qc_pass	TRUE	Cell/nucleus retained for programme derivation

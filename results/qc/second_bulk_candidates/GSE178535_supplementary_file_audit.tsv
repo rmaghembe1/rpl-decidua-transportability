@@ -1,0 +1,7 @@
+accession	base_url	file_name	file_url
+GSE178535	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178535/suppl/	GSE178535_cibersort_out.csv.gz	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178535/suppl/GSE178535_cibersort_out.csv.gz
+GSE178535	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178535/suppl/	GSE178535_count.filter0.nor.log2.csv.gz	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178535/suppl/GSE178535_count.filter0.nor.log2.csv.gz
+GSE178535	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178535/suppl/	GSE178535_deg.RSA_HC.down.csv.gz	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178535/suppl/GSE178535_deg.RSA_HC.down.csv.gz
+GSE178535	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178535/suppl/	GSE178535_deg.RSA_HC.up.csv.gz	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178535/suppl/GSE178535_deg.RSA_HC.up.csv.gz
+GSE178535	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178535/suppl/	GSE178535_go.RSA_HC.down.MF.csv.gz	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178535/suppl/GSE178535_go.RSA_HC.down.MF.csv.gz
+GSE178535	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178535/suppl/	GSE178535_kegg.RSA_HC.down.csv.gz	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178535/suppl/GSE178535_kegg.RSA_HC.down.csv.gz

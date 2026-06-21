@@ -1,0 +1,38 @@
+path	category	release_action	reason
+README.md	documentation	include	Top-level project orientation.
+docs/phase3_single_cell_reference_notes_v0_6.md	documentation	include	Documents Phase 3 single-cell reference logic and scope.
+results/run_logs/three_cohort_transportability_reproducibility_index.md	documentation	include	Traceability index for the three-cohort transportability result.
+results/run_logs/three_cohort_macrophage_APC_transportability_milestone.md	documentation	include	Locked interpretation milestone for the primary result.
+scripts/00_download_second_bulk/01_audit_gse113790_geo_files.R	code	include	Documents GEO supplementary file audit for GSE113790.
+scripts/00_download_second_bulk/02_import_qc_gse113790_matrix.R	code	include	Imports and curates GSE113790 processed expression matrix.
+scripts/00_download_second_bulk/03_audit_gse178535_geo_files.R	code	include	Documents GEO supplementary file audit for GSE178535.
+scripts/00_download_second_bulk/04_import_qc_gse178535_matrix.R	code	include	Imports and curates GSE178535 processed expression matrix.
+scripts/05_projection/01_project_gse214607_signatures_into_gse161969.R	code	include	Projects GSE214607 signatures into GSE161969.
+scripts/05_projection/02_project_gse214607_signatures_into_gse113790.R	code	include	Projects GSE214607 signatures into GSE113790.
+scripts/05_projection/03_project_gse214607_signatures_into_gse178535.R	code	include	Projects GSE214607 signatures into GSE178535.
+scripts/06_transportability/02_combine_three_bulk_transportability_summaries.R	code	include	Combines three-cohort transportability summaries.
+scripts/07_figures/04_plot_three_bulk_transportability.R	code	include	Generates the three-cohort main and supporting figures.
+results/signatures/GSE214607_projection_ready_signature_sets.tsv	derived_data	include	Compact derived signatures needed for reproducibility.
+results/qc/GSE161969_sample_metadata_curated.tsv	metadata	include	Curated sample metadata needed to reproduce GSE161969 projection.
+results/qc/second_bulk_candidates/GSE113790_sample_metadata_curated.tsv	metadata	include	Curated sample metadata needed to reproduce GSE113790 projection.
+results/qc/second_bulk_candidates/GSE178535_sample_metadata_curated.tsv	metadata	include	Curated sample metadata needed to reproduce GSE178535 projection.
+results/projection_scores/GSE161969_GSE214607_projection_signature_coverage.tsv	results	include	Signature coverage for GSE161969.
+results/projection_scores/GSE113790_GSE214607_projection_signature_coverage.tsv	results	include	Signature coverage for GSE113790.
+results/projection_scores/GSE178535_GSE214607_projection_signature_coverage.tsv	results	include	Signature coverage for GSE178535.
+results/transportability/GSE161969_GSE214607_projection_transportability_summary_compact.tsv	results	include	Compact transportability summary for GSE161969.
+results/transportability/GSE113790_GSE214607_projection_transportability_summary.tsv	results	include	Transportability summary for GSE113790.
+results/transportability/GSE178535_GSE214607_projection_transportability_summary.tsv	results	include	Transportability summary for GSE178535.
+results/transportability/GSE214607_signature_projection_three_bulk_transportability.tsv	results	include	Combined three-cohort transportability table.
+results/transportability/GSE214607_signature_projection_three_bulk_concordance_summary.tsv	results	include	Three-cohort concordance summary.
+results/figures/GSE214607_macrophage_APC_three_cohort_boxplot.png	figure	include	Main manuscript figure in raster format.
+results/figures/GSE214607_macrophage_APC_three_cohort_boxplot.svg	figure	include	Main manuscript figure in editable vector format.
+results/figures/GSE214607_all_signature_three_cohort_delta_summary.png	figure	include	Supporting figure in raster format.
+results/figures/GSE214607_all_signature_three_cohort_delta_summary.svg	figure	include	Supporting figure in editable vector format.
+results/figures/GSE214607_three_cohort_figure_caption_support.tsv	results	include	Numeric support table for figure caption.
+data/raw/second_bulk_candidates/GSE113790/GSE113790_All_Sample_FPKM_Matrix.txt.gz	raw_data	regenerate_from_geo	Raw GEO-derived processed matrix; avoid committing if repository size or licensing is a concern.
+data/raw/second_bulk_candidates/GSE178535/GSE178535_count.filter0.nor.log2.csv.gz	raw_data	regenerate_from_geo	Raw GEO-derived processed matrix; avoid committing if repository size or licensing is a concern.
+results/qc/GSE161969_normalized_expression_log2.tsv	intermediate_data	optional_or_regenerate	Intermediate expression matrix copied from Phase 2; may be regenerated from GSE161969 processing scripts.
+results/qc/second_bulk_candidates/GSE113790_normalized_expression_log2.tsv	intermediate_data	optional_or_regenerate	Intermediate expression matrix; can be regenerated from GEO input.
+results/qc/second_bulk_candidates/GSE178535_normalized_expression_log2.tsv	intermediate_data	optional_or_regenerate	Intermediate expression matrix; can be regenerated from GEO input.
+data/processed/GSE214607/GSE214607_combined_counts_sparse.rds	large_intermediate	exclude_or_external_storage	Large single-cell sparse matrix; should not be committed to GitHub.
+data/raw/GSE214607/GSE214607_RAW.tar	raw_data	regenerate_from_geo_or_external_storage	Large raw scRNA-seq archive; should not be committed to GitHub.

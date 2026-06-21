@@ -1,0 +1,7 @@
+sample_id	dataset_id	diagnosis	tissue_source	assay_type	expression_sample_id	metadata_grade	inclusion_role	notes
+HC02A	GSE178535	Control	Decidua	bulk_RNAseq	HC02A	B	third_bulk_transportability_candidate	Processed GEO matrix GSE178535_count.filter0.nor.log2.csv.gz; sample diagnosis inferred from column names where possible
+HC04A	GSE178535	Control	Decidua	bulk_RNAseq	HC04A	B	third_bulk_transportability_candidate	Processed GEO matrix GSE178535_count.filter0.nor.log2.csv.gz; sample diagnosis inferred from column names where possible
+HC06A	GSE178535	Control	Decidua	bulk_RNAseq	HC06A	B	third_bulk_transportability_candidate	Processed GEO matrix GSE178535_count.filter0.nor.log2.csv.gz; sample diagnosis inferred from column names where possible
+RSA03A	GSE178535	RSA	Decidua	bulk_RNAseq	RSA03A	B	third_bulk_transportability_candidate	Processed GEO matrix GSE178535_count.filter0.nor.log2.csv.gz; sample diagnosis inferred from column names where possible
+RSA04A	GSE178535	RSA	Decidua	bulk_RNAseq	RSA04A	B	third_bulk_transportability_candidate	Processed GEO matrix GSE178535_count.filter0.nor.log2.csv.gz; sample diagnosis inferred from column names where possible
+RSA-1A	GSE178535	RSA	Decidua	bulk_RNAseq	RSA-1A	B	third_bulk_transportability_candidate	Processed GEO matrix GSE178535_count.filter0.nor.log2.csv.gz; sample diagnosis inferred from column names where possible

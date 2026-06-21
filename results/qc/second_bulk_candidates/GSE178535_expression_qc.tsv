@@ -1,0 +1,2 @@
+dataset_id	n_genes	n_samples	sample_columns	annotation_columns	normalization	source_file	n_control	n_case	n_unassigned
+GSE178535	26790	6	HC02A,HC04A,HC06A,RSA03A,RSA04A,RSA-1A	""	GEO processed count.filter0.nor.log2 matrix; no additional log2 transform applied	data/raw/second_bulk_candidates/GSE178535/GSE178535_count.filter0.nor.log2.csv.gz	3	3	0

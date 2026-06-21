@@ -1,0 +1,68 @@
+compartment	marker_genes	use	caution
+dNK	NCAM1	dNK identity and cytotoxic/regulatory programme annotation	KIR genes are variably captured; avoid overcalling fine dNK subsets
+dNK	KLRD1	dNK identity and cytotoxic/regulatory programme annotation	KIR genes are variably captured; avoid overcalling fine dNK subsets
+dNK	NKG7	dNK identity and cytotoxic/regulatory programme annotation	KIR genes are variably captured; avoid overcalling fine dNK subsets
+dNK	GNLY	dNK identity and cytotoxic/regulatory programme annotation	KIR genes are variably captured; avoid overcalling fine dNK subsets
+dNK	KIR2DL1	dNK identity and cytotoxic/regulatory programme annotation	KIR genes are variably captured; avoid overcalling fine dNK subsets
+dNK	KIR2DL3	dNK identity and cytotoxic/regulatory programme annotation	KIR genes are variably captured; avoid overcalling fine dNK subsets
+dNK	KIR3DL1	dNK identity and cytotoxic/regulatory programme annotation	KIR genes are variably captured; avoid overcalling fine dNK subsets
+dNK	XCL1	dNK identity and cytotoxic/regulatory programme annotation	KIR genes are variably captured; avoid overcalling fine dNK subsets
+dNK	XCL2	dNK identity and cytotoxic/regulatory programme annotation	KIR genes are variably captured; avoid overcalling fine dNK subsets
+T_cell	CD3D	T-cell and regulatory T-cell programme annotation	FOXP3/Treg programmes may be sparse in scRNA-seq
+T_cell	CD3E	T-cell and regulatory T-cell programme annotation	FOXP3/Treg programmes may be sparse in scRNA-seq
+T_cell	TRAC	T-cell and regulatory T-cell programme annotation	FOXP3/Treg programmes may be sparse in scRNA-seq
+T_cell	CD4	T-cell and regulatory T-cell programme annotation	FOXP3/Treg programmes may be sparse in scRNA-seq
+T_cell	CD8A	T-cell and regulatory T-cell programme annotation	FOXP3/Treg programmes may be sparse in scRNA-seq
+T_cell	IL7R	T-cell and regulatory T-cell programme annotation	FOXP3/Treg programmes may be sparse in scRNA-seq
+T_cell	FOXP3	T-cell and regulatory T-cell programme annotation	FOXP3/Treg programmes may be sparse in scRNA-seq
+T_cell	CTLA4	T-cell and regulatory T-cell programme annotation	FOXP3/Treg programmes may be sparse in scRNA-seq
+Macrophage	LST1	Decidual macrophage programme annotation	Avoid simplistic M1/M2 labels
+Macrophage	C1QA	Decidual macrophage programme annotation	Avoid simplistic M1/M2 labels
+Macrophage	C1QB	Decidual macrophage programme annotation	Avoid simplistic M1/M2 labels
+Macrophage	C1QC	Decidual macrophage programme annotation	Avoid simplistic M1/M2 labels
+Macrophage	CD68	Decidual macrophage programme annotation	Avoid simplistic M1/M2 labels
+Macrophage	MRC1	Decidual macrophage programme annotation	Avoid simplistic M1/M2 labels
+Macrophage	MS4A7	Decidual macrophage programme annotation	Avoid simplistic M1/M2 labels
+Macrophage	APOE	Decidual macrophage programme annotation	Avoid simplistic M1/M2 labels
+Dendritic_monocyte	FCN1	Monocyte/DC annotation	Lineage boundaries may be dataset-specific
+Dendritic_monocyte	LYZ	Monocyte/DC annotation	Lineage boundaries may be dataset-specific
+Dendritic_monocyte	CD1C	Monocyte/DC annotation	Lineage boundaries may be dataset-specific
+Dendritic_monocyte	CLEC10A	Monocyte/DC annotation	Lineage boundaries may be dataset-specific
+Dendritic_monocyte	LILRA4	Monocyte/DC annotation	Lineage boundaries may be dataset-specific
+Dendritic_monocyte	IRF7	Monocyte/DC annotation	Lineage boundaries may be dataset-specific
+EVT	HLA-G	Extravillous trophoblast programme	Differentiate trophoblast lineage from maternal epithelial signals
+EVT	MMP2	Extravillous trophoblast programme	Differentiate trophoblast lineage from maternal epithelial signals
+EVT	ITGA5	Extravillous trophoblast programme	Differentiate trophoblast lineage from maternal epithelial signals
+EVT	PAPPA2	Extravillous trophoblast programme	Differentiate trophoblast lineage from maternal epithelial signals
+EVT	NOTUM	Extravillous trophoblast programme	Differentiate trophoblast lineage from maternal epithelial signals
+VCT	KRT7	Villous cytotrophoblast identity	May vary by gestational age
+VCT	EPCAM	Villous cytotrophoblast identity	May vary by gestational age
+VCT	TP63	Villous cytotrophoblast identity	May vary by gestational age
+VCT	PAGE4	Villous cytotrophoblast identity	May vary by gestational age
+VCT	TEAD4	Villous cytotrophoblast identity	May vary by gestational age
+SCT	CGA	Syncytiotrophoblast programme	Ambient RNA may affect trophoblast hormones
+SCT	CGB3	Syncytiotrophoblast programme	Ambient RNA may affect trophoblast hormones
+SCT	CSH1	Syncytiotrophoblast programme	Ambient RNA may affect trophoblast hormones
+SCT	PSG1	Syncytiotrophoblast programme	Ambient RNA may affect trophoblast hormones
+SCT	ERVW-1	Syncytiotrophoblast programme	Ambient RNA may affect trophoblast hormones
+Decidual_stromal	PRL	Decidualization and stromal remodelling programmes	Separate identity from ECM activation
+Decidual_stromal	IGFBP1	Decidualization and stromal remodelling programmes	Separate identity from ECM activation
+Decidual_stromal	DCN	Decidualization and stromal remodelling programmes	Separate identity from ECM activation
+Decidual_stromal	COL1A1	Decidualization and stromal remodelling programmes	Separate identity from ECM activation
+Decidual_stromal	HOXA10	Decidualization and stromal remodelling programmes	Separate identity from ECM activation
+Decidual_stromal	WNT4	Decidualization and stromal remodelling programmes	Separate identity from ECM activation
+Endothelial	PECAM1	Vascular niche programme	Blood contamination and vascular sampling should be considered
+Endothelial	VWF	Vascular niche programme	Blood contamination and vascular sampling should be considered
+Endothelial	KDR	Vascular niche programme	Blood contamination and vascular sampling should be considered
+Endothelial	ENG	Vascular niche programme	Blood contamination and vascular sampling should be considered
+Endothelial	ESAM	Vascular niche programme	Blood contamination and vascular sampling should be considered
+Epithelial_glandular	EPCAM	Glandular/epithelial programme	May overlap with trophoblast epithelial markers
+Epithelial_glandular	KRT18	Glandular/epithelial programme	May overlap with trophoblast epithelial markers
+Epithelial_glandular	MUC1	Glandular/epithelial programme	May overlap with trophoblast epithelial markers
+Epithelial_glandular	PAEP	Glandular/epithelial programme	May overlap with trophoblast epithelial markers
+Epithelial_glandular	SPP1	Glandular/epithelial programme	May overlap with trophoblast epithelial markers
+Perivascular	RGS5	Perivascular/vascular-remodelling programme	Sparse compartments require broad labels
+Perivascular	ACTA2	Perivascular/vascular-remodelling programme	Sparse compartments require broad labels
+Perivascular	MCAM	Perivascular/vascular-remodelling programme	Sparse compartments require broad labels
+Perivascular	PDGFRB	Perivascular/vascular-remodelling programme	Sparse compartments require broad labels
+Perivascular	MYH11	Perivascular/vascular-remodelling programme	Sparse compartments require broad labels

@@ -1,0 +1,22 @@
+{
+  "project": "RPL_decidua_transportability",
+  "version": "0.6",
+  "phase": "Phase 3 - single-cell reference processing and signature derivation",
+  "primary_design_lock": "programme_transportability_not_biomarker_discovery",
+  "primary_single_cell_targets": [
+    "GSE214607",
+    "GSE164449"
+  ],
+  "sensitivity_single_cell_targets": [
+    "GSE169269"
+  ],
+  "normal_reference_targets": [
+    "E-MTAB-6701"
+  ],
+  "minimum_signature_gene_count": 10,
+  "preferred_signature_gene_count_range": [
+    15,
+    80
+  ],
+  "avoid_overinterpretation": true
+}

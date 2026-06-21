@@ -1,0 +1,2 @@
+dataset_id	n_samples	n_genes	n_cells	total_counts	n_control_decidua	n_control_villi	n_rm_decidua	n_rm_villi
+GSE214607	16	36601	139575	1427562067	5	5	3	3

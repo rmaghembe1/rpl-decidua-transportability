@@ -1,0 +1,59 @@
+# R session and project-local state
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Large raw downloads
+data/raw/GSE214607/
+data/raw/sc/
+data/raw/second_bulk_candidates/*/*.gz
+data/raw/second_bulk_candidates/*/*.tar
+data/raw/second_bulk_candidates/*/*.zip
+
+# Large processed single-cell objects
+data/processed/GSE214607/
+data/processed/*/*.rds
+data/processed/*/*.rda
+data/processed/*/*.h5
+data/processed/*/*.h5ad
+data/processed/*/*.loom
+data/processed/*/*.mtx
+data/processed/*/*.mtx.gz
+
+# Regenerable intermediate expression matrices
+results/qc/GSE161969_normalized_expression_log2.tsv
+results/qc/second_bulk_candidates/GSE113790_normalized_expression_log2.tsv
+results/qc/second_bulk_candidates/GSE178535_normalized_expression_log2.tsv
+results/qc/second_bulk_candidates/*_expression_matrix_fpkm.tsv
+results/qc/second_bulk_candidates/*_gene_annotation.tsv
+
+# Very large or verbose logs can be regenerated
+results/run_logs/*.log
+
+# Keep curated metadata, summaries, figures, scripts, release notes and milestone markdowns
+!results/qc/GSE161969_sample_metadata_curated.tsv
+!results/qc/second_bulk_candidates/GSE113790_sample_metadata_curated.tsv
+!results/qc/second_bulk_candidates/GSE178535_sample_metadata_curated.tsv
+!results/transportability/
+!results/projection_scores/*signature_coverage.tsv
+!results/figures/*.png
+!results/figures/*.svg
+!results/figures/*caption_support.tsv
+!results/run_logs/*.md
+!results/run_logs/*file_check*.tsv
+!results/run_logs/*manifest*.tsv
+!release/
+!docs/
+!scripts/
+!README.md
