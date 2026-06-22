@@ -1,0 +1,34 @@
+Manuscript v0.7 citation-placement QC report
+
+File checked:
+manuscript/manuscript_full_draft_v0_7.md
+
+Purpose:
+This report documents the corrected citation-map placement in manuscript v0.7.
+
+Summary:
+manuscript_full_draft_v0_7.md was created from manuscript_full_draft_v0_6.md to correct citation-map placement. In v0.6, some citation-map notes were inserted under structured abstract subsections because the matching procedure allowed lower-level headings such as "### Methods" and "### Results". In v0.7, citation maps were repositioned under the main top-level manuscript sections.
+
+Verified citation-map locations:
+- Introduction citation map: placed under "## Introduction".
+- Methods citation map: placed under "# Methods".
+- Results citation map: placed under "# Results".
+- Discussion citation map: placed under "# Discussion".
+
+Reference metadata source:
+manuscript/references/formal_citation_metadata_v0_1.tsv
+
+Current status:
+v0.7 is the preferred citation-mapping manuscript draft. It contains structured [REF:source_key] placeholders and section-level citation maps to guide final reference insertion.
+
+Remaining work before journal submission:
+1. Convert [REF:source_key] placeholders into journal-formatted in-text citations.
+2. Complete partial reference metadata where needed.
+3. Select target journal and adapt reference style accordingly.
+4. Remove citation-map notes from the final submission manuscript after citation conversion.
+5. Recheck every citation against the exact claim it supports.
+6. Confirm that dataset-source citations are placed at first mention of each dataset.
+7. Confirm that clinical evidence-boundary statements remain supported and conservative.
+
+Conclusion:
+v0.7 corrects the citation-map placement issue identified in v0.6. The manuscript is now ready for final citation conversion planning or target-journal formatting.
