@@ -1,0 +1,65 @@
+Manuscript v1.1 Scientific Reports submission QC report
+
+File checked:
+manuscript/manuscript_full_draft_v1_1_scientific_reports_submission_text.md
+
+Purpose:
+This report documents submission-readiness checks for the Scientific Reports-style RPL decidua manuscript draft v1.1.
+
+Template basis:
+The manuscript follows the structural template of the previously submitted NOA transcriptomics manuscript that passed Scientific Reports technical checks.
+
+Required front-matter elements:
+- Full title: present.
+- Short title: present.
+- Article type: present.
+- Author name and numbered affiliations: present.
+- Corresponding author block: present.
+- Email addresses: present.
+
+Required main manuscript sections:
+- Abstract: present.
+- Introduction: present.
+- Materials and Methods: present.
+- Results: present.
+- Discussion: present.
+- Data Availability Statement: present.
+- Author contributions: present.
+- Funding: present.
+- Acknowledgments: present.
+- Competing interests: present.
+- References: present.
+- Supporting information captions: present.
+
+Abstract status:
+The abstract has been converted from structured paragraph blocks into a single unstructured Scientific Reports-style abstract. It retains the study background, objective, methods, main result, secondary result, interpretation and claim-boundary language.
+
+Reference status:
+Structured [REF:source_key] placeholders have been converted to numbered citations.
+No [REF:source_key] placeholders should remain in v1.1.
+The reference list is a first submission-style numbered list and may still require final metadata polishing before formal submission.
+
+Data availability:
+The Data Availability Statement identifies public GEO/source accessions and the GitHub repository for derived signatures, metadata summaries, projection-score tables, transportability summaries, figures, manuscript drafts, QC reports and reproducibility documentation.
+
+Declaration status:
+Author contributions, funding, acknowledgments and competing interests sections are present.
+
+Claim-boundary status:
+The manuscript preserves conservative interpretation language. It frames the result as exploratory, observational and programme-level. It does not claim causality, diagnostic performance, clinical utility or standalone biomarker validation.
+
+Supported central claim:
+A GSE214607-derived recurrent-miscarriage decidual inflammatory macrophage/APC programme shows concordant positive directional recurrence across three independent bulk decidua cohorts: GSE161969, GSE113790 and GSE178535.
+
+Known remaining tasks before formal submission:
+1. Convert the markdown submission text into DOCX using the Scientific Reports-tested formatting style.
+2. Confirm final figure and supplementary-table file names.
+3. Confirm whether figures should be embedded in the DOCX or uploaded separately.
+4. Polish the reference list metadata and ensure reference numbering is consistent.
+5. Confirm that all data/code availability links are active.
+6. Add repository DOI if archived on Zenodo/OSF/Figshare before submission.
+7. Perform a final DOCX visual and technical check before upload.
+8. Prepare a cover letter using the same evidence-boundary framing.
+
+Conclusion:
+manuscript_full_draft_v1_1_scientific_reports_submission_text.md is the preferred current submission-text draft. It is ready for DOCX conversion and final submission-package polishing.
