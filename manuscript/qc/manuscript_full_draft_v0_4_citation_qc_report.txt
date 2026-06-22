@@ -1,0 +1,33 @@
+Manuscript v0.4 citation placeholder QC report
+
+File checked:
+manuscript/manuscript_full_draft_v0_4.md
+
+Purpose:
+This report documents the first citation-placeholder insertion pass for manuscript v0.4.
+
+Summary:
+manuscript_full_draft_v0_4.md was created from manuscript_full_draft_v0_3.md and includes a citation-status note plus initial structured reference placeholders in the form [REF:source_key].
+
+Observed citation-placeholder status:
+The first automated insertion pass successfully inserted dataset-level reference placeholders in the abstract/methods-facing summary paragraph for GSE161969, GSE113790 and GSE178535.
+
+However, most planned phrase-based replacements were not inserted, likely because the exact target sentences in v0.3 differed from the replacement dictionary. Therefore, v0.4 should be treated as a controlled first citation-mapping draft, not a fully cited manuscript draft.
+
+Required next step:
+Perform a second citation-placement pass using section-aware insertion rather than exact-sentence replacement.
+
+Priority citation locations for second pass:
+1. Introduction: RPL clinical definition and heterogeneity.
+2. Introduction: maternal-fetal-interface immune biology.
+3. Introduction: value of single-cell-informed programme interpretation.
+4. Methods: GSE214607 source and SRA/GEO records.
+5. Methods: external bulk decidua cohorts GSE161969, GSE113790 and GSE178535.
+6. Results: first mention of each projected cohort.
+7. Discussion: evidence-boundary statement that transportability does not establish causality, diagnostic performance or clinical utility.
+
+Reference metadata source:
+manuscript/references/formal_citation_metadata_v0_1.tsv
+
+Conclusion:
+v0.4 is suitable as an intermediate citation-placeholder draft. It requires a manual or section-aware automated citation pass before conversion to a journal-formatted reference style.
