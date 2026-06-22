@@ -1,0 +1,42 @@
+DOCX generation QC note v1.1
+
+Input:
+manuscript/manuscript_full_draft_v1_1_scientific_reports_submission_text.md
+
+Output:
+manuscript/docx/RPL_decidua_scientific_reports_submission_v1_1.docx
+
+PDF preview:
+manuscript/pdf_preview/RPL_decidua_scientific_reports_submission_v1_1.pdf
+
+Conversion script:
+scripts/make_scirep_docx.py
+
+Purpose:
+Generate a Scientific Reports-style DOCX from the v1.1 markdown submission text using the manuscript structure adopted from the NOA Scientific Reports-tested submission template.
+
+Automated structural checks completed:
+- DOCX was generated successfully.
+- Title/front matter detected.
+- Abstract detected.
+- Introduction detected.
+- Materials and Methods detected.
+- Results detected.
+- Discussion detected.
+- Data Availability Statement detected.
+- Author contributions detected.
+- Funding detected.
+- Acknowledgments detected.
+- Competing interests detected.
+- References detected.
+- Supporting information captions detected.
+- No [REF:source_key] placeholders detected.
+- No citation-map notes detected.
+- No internal manuscript-status notes detected.
+- No shell-command artifacts detected.
+
+Known next checks:
+- Open the DOCX manually in Word or LibreOffice.
+- Inspect the PDF preview for page breaks, table layout, reference layout and figure-caption placement.
+- Confirm whether Scientific Reports submission should upload the manuscript DOCX with figures embedded or with figures uploaded separately.
+- Prepare a cover letter using the same conservative evidence-boundary framing.
