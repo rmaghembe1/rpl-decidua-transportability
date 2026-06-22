@@ -1,0 +1,10 @@
+Theme	Included source examples	Reason for inclusion	How used in v2
+Clinical burden and definitions	WHO; ESHRE; ASRM; Lancet miscarriage series	Establishes human health problem and guideline context	Introduction clinical-problem paragraphs
+Decidualization and embryo selection	Gellersen & Brosens; Brosens et al.	Explains decidua as active tissue, not passive sampling substrate	Introduction biological rationale
+Maternal-fetal-interface single-cell biology	Vento-Tormo; Suryawanshi; Moffett & Shreeve	Provides cellular ecosystem and trophoblast-immune context	Introduction and Discussion
+Trophoblast/immune/Treg crosstalk	Xu et al.; Gomez-Lopez et al.; Li et al.	Frames immune tolerance and antigen-recognition biology	Introduction and Discussion
+RPL immune landscape	Cell Discovery; GPB; Frontiers immune atlas; pro-inflammatory decidua papers	Shows published immune dysregulation evidence in RPL	Discussion comparison to literature
+Decidual macrophage mechanism	Zhao et al.; Ding et al.; Wang et al.; SGK1 study; macrophage reviews	Directly relevant to macrophage/APC interpretation	Discussion biological interpretation
+Complement and tissue remodeling	Bulla et al.; Agostinis et al.; complement pregnancy reviews; CFHR1 study	Supports cautious interpretation of C1q-containing signature	Discussion complement paragraph
+Datasets and public resources	GSE/SRA records; Wei et al.; Chen et al.	Documents discovery and projection datasets	Methods and References
+Methods and statistical framing	Pseudobulk references; GSVA; Benjamini-Hochberg	Supports sample-level aggregation, gene-set scoring and FDR language	Methods and methodological Discussion
