@@ -1,0 +1,62 @@
+RPL decidua v2 local submission audit
+Input manuscript: manuscript/RPL_decidua_scientific_reports_manuscript_v2.md
+
+Section structure
+Required sections checked: 15
+Missing sections: ['Conclusion']
+
+Reference audit
+Reference entries listed: 40
+Reference number range: 1-40
+Missing reference numbers in list: None
+Target reference range: 30-40
+Cited reference numbers in main text: 40
+Uncited listed references: None
+Cited numbers not listed: None
+References with DOI or URL detected: 25
+References without DOI or URL detected: 15
+References without DOI/URL, first 25:
+  1. World Health Organization. Infertility prevalence estimates, 1990-2021. World Health Organization, Geneva (2023).
+  3. Practice Committee of the American Society for Reproductive Medicine. Recurrent pregnancy loss: a committee opinion. Fertility and Sterility
+  12. Gomez-Lopez, N. et al. Regulatory T cells in pregnancy: it is not all about FoxP3. Frontiers in Immunology 11, 1182 (2020).
+  15. Guo, C. et al. Single-cell immune landscape of human recurrent miscarriage. Genomics, Proteomics & Bioinformatics 19, 208-222 (2021).
+  26. Girardi, G. et al. The complement system in the pathophysiology of pregnancy and in systemic autoimmune rheumatic diseases during pregnancy.
+  27. Liu, J. et al. Exploring novel molecular mechanisms underlying recurrent pregnancy loss and potential biomarkers through multi-omics bioinfo
+  28. GEO accession GSE214607. Single-cell sequencing and second-generation RNA sequencing-based screening of macrophage-associated marker genes f
+  29. NCBI SRA accession SRP400574. Raw sequence record associated with GSE214607.
+  31. GEO accession GSE161969. RNA sequencing of decidua reveals differentially expressed genes in recurrent pregnancy loss. Gene Expression Omnib
+  33. NCBI SRA accession SRP293708. Raw sequence record associated with GSE161969.
+  34. GEO accession GSE113790. RNA sequencing analysis of decidua tissues from unexplained recurrent spontaneous abortion patients and controls wi
+  35. NCBI SRA accession SRP143517. Raw sequence record associated with GSE113790.
+  36. GEO accession GSE178535. Next Generation Sequencing Facilitates Quantitative Analysis of Decidua Tissue in Recurrent Pregnancy Loss. Gene Ex
+  37. Squair, J. W. et al. Confronting false discoveries in single-cell differential expression. Nature Communications 12, 5692 (2021).
+  40. Benjamini, Y. & Hochberg, Y. Controlling the false discovery rate: a practical and powerful approach to multiple testing. Journal of the Roy
+
+Figure/table citation audit
+Figures cited in text: ['1', '2', '3', '4']
+Figure legends present: ['1', '2', '3', '4']
+Figure legends missing in text citations: []
+Figure citations missing legends: []
+Tables cited in text: ['1', '2', '3']
+Table headings present: ['1', '2', '3']
+Table headings missing in text citations: []
+Table citations missing headings: []
+
+Supplementary-material audit
+Supplementary figures cited in text: ['1', '2']
+Supplementary figure legends present: ['1', '2']
+Supplementary figure legends missing in text citations: []
+Supplementary figure citations missing legends: []
+Supplementary tables cited in text: ['1', '2', '3']
+Supplementary table captions present: ['1', '2', '3', '4']
+Supplementary table captions missing in text citations: ['4']
+Supplementary table citations missing captions: []
+
+Internal-placeholder audit
+Problem tokens found: None
+
+Preliminary interpretation
+- Reference count is within target range.
+- Some references lack DOI/URL metadata and should be polished before final submission.
+- No obvious internal placeholders or shell-command artifacts detected.
+- Missing required sections should be restored before v2.1.
