@@ -1,0 +1,34 @@
+RPL decidua D-drive recovery audit
+Date: Thu Sep 24 22:21:48 EAT 2026
+
+Repository path:
+/mnt/d/RPL_decidua_transportability/rpl_decidua_git_release
+
+Git status:
+?? manuscript/qc/D_drive_recovery_audit_20260924.txt
+
+Latest commits:
+f824415 Add v2 revised Scientific Reports manuscript package
+f2b0972 Add Scientific Reports submission checklist v1.1
+6912c73 Add Scientific Reports cover letter draft v1.1
+606e1f4 Add Scientific Reports DOCX submission draft v1.1
+b28c635 Add Scientific Reports submission QC report for manuscript v1.1
+8d9d348 Add Scientific Reports submission text v1.1 with unstructured abstract
+6aaa362 Add Scientific Reports submission text v1.0
+e65fe8a Add Scientific Reports style manuscript draft v0.9
+f239b31 Add Scientific Reports template adoption note
+54a0bc7 Add manuscript draft v0.8 final preparation
+
+Key v2 files:
+-rwxrwxrwx 1 rmaghembe rmaghembe  37K Jun 22 20:44 manuscript/RPL_decidua_scientific_reports_manuscript_v2.md
+-rwxrwxrwx 1 rmaghembe rmaghembe  49K Jun 22 20:44 manuscript/docx/RPL_decidua_scientific_reports_manuscript_v2.docx
+-rwxrwxrwx 1 rmaghembe rmaghembe 148K Jun 22 20:44 manuscript/pdf_preview/RPL_decidua_scientific_reports_manuscript_v2.pdf
+-rwxrwxrwx 1 rmaghembe rmaghembe 3.2K Jun 22 20:44 manuscript/qc/RPL_decidua_v2_audit_and_revision_report.md
+-rwxrwxrwx 1 rmaghembe rmaghembe 1.7K Jun 22 20:44 manuscript/references/RPL_decidua_v2_literature_screening_table.tsv
+-rwxrwxrwx 1 rmaghembe rmaghembe 146K Jun 22 20:44 release/v2_package/RPL_decidua_v2_revision_package.zip
+
+Key v1.1 files:
+-rwxrwxrwx 1 rmaghembe rmaghembe  52K Jun 22 20:45 manuscript/docx/RPL_decidua_scientific_reports_submission_v1_1.docx
+-rwxrwxrwx 1 rmaghembe rmaghembe 181K Jun 22 15:10 manuscript/pdf_preview/RPL_decidua_scientific_reports_submission_v1_1.pdf
+-rwxrwxrwx 1 rmaghembe rmaghembe 3.0K Jun 22 15:12 manuscript/submission/cover_letter_scientific_reports_v1_1.md
+-rwxrwxrwx 1 rmaghembe rmaghembe 5.5K Jun 22 15:14 manuscript/submission/scientific_reports_submission_checklist_v1_1.md
