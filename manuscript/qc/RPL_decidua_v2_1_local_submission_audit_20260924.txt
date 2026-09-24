@@ -1,0 +1,45 @@
+RPL decidua v2 local submission audit
+Input manuscript: manuscript/RPL_decidua_scientific_reports_manuscript_v2_1.md
+
+Section structure
+Required sections checked: 15
+Missing sections: None
+
+Reference audit
+Reference entries listed: 40
+Reference number range: 1-40
+Missing reference numbers in list: None
+Target reference range: 30-40
+Cited reference numbers in main text: 40
+Uncited listed references: None
+Cited numbers not listed: None
+References with DOI or URL detected: 40
+References without DOI or URL detected: 0
+
+Figure/table citation audit
+Figures cited in text: ['1', '2', '3', '4']
+Figure legends present: ['1', '2', '3', '4']
+Figure legends missing in text citations: []
+Figure citations missing legends: []
+Tables cited in text: ['1', '2', '3']
+Table headings present: ['1', '2', '3']
+Table headings missing in text citations: []
+Table citations missing headings: []
+
+Supplementary-material audit
+Supplementary figures cited in text: ['1', '2']
+Supplementary figure legends present: ['1', '2']
+Supplementary figure legends missing in text citations: []
+Supplementary figure citations missing legends: []
+Supplementary tables cited in text: ['1', '2', '3']
+Supplementary table captions present: ['1', '2', '3', '4']
+Supplementary table captions missing in text citations: ['4']
+Supplementary table citations missing captions: []
+
+Internal-placeholder audit
+Problem tokens found: None
+
+Preliminary interpretation
+- Reference count is within target range.
+- No obvious internal placeholders or shell-command artifacts detected.
+- Required Scientific Reports-style sections are present.
