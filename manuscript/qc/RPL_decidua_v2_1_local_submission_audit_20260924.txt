@@ -31,9 +31,9 @@ Supplementary figures cited in text: ['1', '2']
 Supplementary figure legends present: ['1', '2']
 Supplementary figure legends missing in text citations: []
 Supplementary figure citations missing legends: []
-Supplementary tables cited in text: ['1', '2', '3']
+Supplementary tables cited in text: ['1', '2', '3', '4']
 Supplementary table captions present: ['1', '2', '3', '4']
-Supplementary table captions missing in text citations: ['4']
+Supplementary table captions missing in text citations: []
 Supplementary table citations missing captions: []
 
 Internal-placeholder audit

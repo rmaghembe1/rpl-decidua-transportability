@@ -55,6 +55,8 @@ In conclusion, this study identifies a single-cell-derived recurrent-miscarriage
 This study provides exploratory evidence that a single-cell-derived recurrent-miscarriage decidual inflammatory macrophage/APC programme recurs directionally across three independent bulk decidua transcriptomic cohorts. The finding supports the use of single-cell-informed transportability analysis to identify reproducible tissue-state programmes in recurrent pregnancy loss. The macrophage/APC axis is biologically coherent and methodologically transportable, but it should not yet be considered causal, diagnostic or clinically actionable.
 
 # Data Availability Statement
+Figure-caption support files, reproducibility-audit outputs and release documentation supporting manuscript assembly are summarized in Supplementary Table S4.
+
 All datasets analysed in this study are publicly available from GEO or associated public sequence repositories under accession numbers GSE214607, SRP400574, GSE161969, SRP293708, GSE113790, SRP143517 and GSE178535. Derived signatures, curated metadata summaries, projection scores, transportability summaries, figures, manuscript drafts, QC reports and reproducibility documentation are available at https://github.com/rmaghembe1/rpl-decidua-transportability. Large raw downloads and regenerable intermediate objects are not redistributed because the source datasets remain publicly available.
 
 # Author contributions
