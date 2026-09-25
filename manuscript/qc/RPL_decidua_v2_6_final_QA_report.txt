@@ -1,0 +1,27 @@
+RPL decidua v2.6 final QA report
+Date: Fri Sep 25 18:14:15 EAT 2026
+
+Final title:
+Single-cell transcriptomics reveals a cross-cohort decidual inflammatory macrophage/APC signature in recurrent pregnancy loss
+
+Targeted issue checks:
+
+1. Duplicated phrase check:
+PASS: duplicated phrase not detected.
+
+2. Invalid GitHub URL check:
+PASS: invalid GitHub URL not detected.
+
+3. Valid GitHub URL check:
+47:All datasets analysed in this study are publicly available from GEO or associated public sequence repositories under accession numbers GSE214607, SRP400574, GSE161969, SRP293708, GSE113790, SRP143517 and GSE178535. Derived signatures, curated metadata summaries, projection scores, cross-cohort recurrence summaries, figures, manuscript drafts, QC reports and reproducibility documentation are available at https://github.com/rmaghembe1/rpl-decidua-transportability. Large raw downloads and regenerable intermediate objects are not redistributed because the source datasets remain publicly available.
+
+4. Redundant Figure 3 title check:
+PASS: redundant Figure 3 title not detected.
+
+5. Old terminology check:
+47:All datasets analysed in this study are publicly available from GEO or associated public sequence repositories under accession numbers GSE214607, SRP400574, GSE161969, SRP293708, GSE113790, SRP143517 and GSE178535. Derived signatures, curated metadata summaries, projection scores, cross-cohort recurrence summaries, figures, manuscript drafts, QC reports and reproducibility documentation are available at https://github.com/rmaghembe1/rpl-decidua-transportability. Large raw downloads and regenerable intermediate objects are not redistributed because the source datasets remain publicly available.
+
+6. File presence:
+-rwxrwxrwx 1 rmaghembe rmaghembe 38K Sep 25 18:12 manuscript/RPL_decidua_scientific_reports_manuscript_v2_6.md
+-rwxrwxrwx 1 rmaghembe rmaghembe 42K Sep 25 18:12 manuscript/docx/RPL_decidua_scientific_reports_manuscript_v2_6.docx
+-rwxrwxrwx 1 rmaghembe rmaghembe 157K Sep 25 18:12 manuscript/pdf_preview/RPL_decidua_scientific_reports_manuscript_v2_6.pdf

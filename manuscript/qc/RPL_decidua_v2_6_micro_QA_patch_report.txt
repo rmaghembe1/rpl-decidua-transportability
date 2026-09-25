@@ -1,0 +1,15 @@
+RPL decidua v2.6 micro-QA patch report
+Date: Fri Sep 25 18:14:15 EAT 2026
+
+Input basis:
+- v2.5 terminology-harmonized manuscript
+
+v2.6 corrections applied:
+1. Corrected duplicated wording: 'directionally recurrent across cohorts across three independent...'
+2. Restored valid GitHub URL: https://github.com/rmaghembe1/rpl-decidua-transportability
+3. Corrected redundant Figure 3 title wording.
+
+Files produced:
+- manuscript/RPL_decidua_scientific_reports_manuscript_v2_6.md
+- manuscript/docx/RPL_decidua_scientific_reports_manuscript_v2_6.docx
+- manuscript/pdf_preview/RPL_decidua_scientific_reports_manuscript_v2_6.pdf
