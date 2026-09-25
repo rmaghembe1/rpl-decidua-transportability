@@ -1,0 +1,18 @@
+RPL decidua v2.5 terminology harmonization report
+Date: Fri Sep 25 14:05:43 EAT 2026
+
+Files:
+- manuscript/RPL_decidua_scientific_reports_manuscript_v2_5.md
+- manuscript/docx/RPL_decidua_scientific_reports_manuscript_v2_5.docx
+- manuscript/pdf_preview/RPL_decidua_scientific_reports_manuscript_v2_5.pdf
+
+Purpose:
+- Harmonized title/body terminology after v2.4.
+- Reduced repeated use of single-cell-informed, transportability, and programme/programmes.
+- Preserved the final title, short title, scientific meaning, and v2.4 table layout fixes.
+
+Final title:
+Single-cell transcriptomics reveals a cross-cohort decidual inflammatory macrophage/APC signature in recurrent pregnancy loss
+
+Residual terminology check in markdown:
+No targeted old terminology detected.
